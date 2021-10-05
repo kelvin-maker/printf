@@ -75,4 +75,5 @@ _printf("Hello my name is %s and I am %i years old", name, age);
 No known bugs.
 Report bugs to ...
 .SH AUTHOR
-Kelvin Mwenda
+Kelvin Mwenda, Hassler malaba
+
